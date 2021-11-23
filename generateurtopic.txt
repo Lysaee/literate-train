@@ -316,7 +316,6 @@ cerveau
 pied droit
 pied gauche
 cul
-bite
 
 $famillefem
 mère
