@@ -1,7 +1,7 @@
 $name : Générateur de topic pour 18-25
 $author : Lysae
 $description : Génère un titre de topic pour pouvoir boucler, d'apres le script d'Atomiste
-$amount : 1
+$amount : 10
 $picture :
 $button : Génère le topic
 
