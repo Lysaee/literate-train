@@ -1,0 +1,383 @@
+
+$name : Générateur de topic pour 18-25
+$author : Lysae
+$description : Génère un titre de topic pour pouvoir boucler, d'apres le script d'Atomiste
+$amount : 1
+$picture :
+$button : Génère le topic
+
+$personne
+Ad*lf Hitl*r
+Le S
+Macron
+Marine Le Pen
+Alain Soral
+Marlène Schiappa
+Risitas
+Jesus Quintero
+Henry De Lesquen
+Philippot
+Zemmour
+Mélenchon
+Trump
+Poutine
+Mbappe
+Kelly Vedovelli
+Jean Castex
+Shlomo du Crif
+Isra*l
+JDG
+Kirby
+Raoult
+Ruquier
+Christine Kelly
+Biden
+Attali
+Soros
+Greta Thunberg
+
+$indeter
+une caissière
+un gamin
+une gamine
+un ingénieur
+un nèg*e
+un arbre
+un ju*f
+un blanc
+un narbo
+un asiat
+un américain
+un rital
+un breton
+un corse
+un berbère
+un QLF
+un facho
+un modo
+un admin
+un droitard
+un gauchiste
+un fniste
+un prolo
+un RSAiste
+un gilet jaune
+un kikoojap
+un macroniste
+un Bot LREM
+un zemmouriste
+un trap
+une féministe
+un french dreamer
+une magalie
+un golem
+
+$objet
+smartphone
+canapé
+chaussette à sperme
+fauteuil roulant
+boite de corn flakes
+peluche orange
+asticot
+arabe
+bougn*ule
+ju*f
+cendrier
+cheminée
+aspirateur
+jeux-vidéo
+ordinateur
+macroniste
+décadent
+gauchiste
+gauchiasse
+raciste
+chofa
+QLF
+abricot
+jeux steam soldé
+maison à étages
+allocation
+youp*n
+voiture
+voiture Diesel
+voiture électrique
+trisomique
+arbre
+clavier
+caméra
+livre
+fusil à pompe
+lance-grenades
+Hummer rouge
+trotinette
+chien
+trap de poche
+chat
+retraité
+gilet jaune
+pizza LIDL
+carton UPS
+coronavirus
+dossier de porn [shemale|déviant|blacked|scato|pédo|zoo|nécro|gay]
+
+$objets
+smartphones
+canapés
+chaussettes à sperme
+fauteuils roulants
+boites de corn flakes
+peluches oranges
+asticots
+arbres
+bougn*ules
+ju*fs
+cendriers
+cheminées
+aspirateurs
+jeux-vidéos
+ordinateurs
+macronistes
+décadents
+gauchistes
+gauchiasses
+racistes
+chofas
+QLF
+abricots
+jeux steam soldés
+maisons à étages
+allocations
+youp*ns
+pates au ketchup
+voitures Diesel
+voitures électriques
+trisomiques
+arbres
+claviers
+caméras
+livres
+fusils à pompe
+lances-grenades
+trotinettes
+singes
+chiens
+chats
+retraités
+pizzas LIDL
+gilets jaunes
+cartons UPS
+MPieds
+vaccins
+doses
+
+$forumeur
+AntoineForum
+SaumonArcEnCiel
+Ylliade
+Assnium
+IciZolaski
+Ray_man
+ClaireDearing
+Dératiseur
+Arsenic
+AnyaTaylorJoy
+AncienTombory
+Girafin
+-W9
+Ray_man
+GommeBlanc
+Inoya
+Yoonga
+Ass2Trefle
+Research256
+TueuseDeVampire
+SPlisken6
+Pomer
+CompteJVC
+Alicat
+[KJ]
+
+$verbe
+donné
+mangé
+vendu
+prété
+perdu
+retrouvé
+sodoculé
+suçé
+payé
+dérangé
+défoncé
+masturbé
+filmé
+frappé
+gratté
+bombardé
+touché
+bouclé
+
+$verbepre
+donne
+mange
+vend
+prête
+perd
+retrouve
+sodocule
+suçe
+paye
+dérange
+défonce
+masturbe
+filme
+frappe
+gratte
+bombarde
+touche
+
+$verbeinf
+manger
+baiser
+pleurer
+tuer
+castagner
+sodoculer
+décéder
+violer
+déranger
+défoncer
+masturber
+filmer
+frapper
+gratter
+bombarder
+toucher
+
+$insulte
+FDP
+chimpanzé
+babouin
+fils de viol
+fils de pute
+bougn*ule mental
+nèg*e puant
+sodomite
+trisotin
+déchet
+débile
+trou du cul
+pd
+attardé
+attardin
+
+$activite
+patisserie
+combat de MMA
+missionnaire
+escalade
+canoé-kayak
+poterie
+débat
+concours de bite
+concours d'égo
+hygiène de vie merdique
+malaise
+kébaberie
+karaté
+saut à la perche
+branlette
+zoologie
+randonnée
+natation
+forumage
+boucle
+cuisine [italienne|congolaise|rwandaise|ougandaise|islandaise|méxicaine|israélienne]
+
+$corps
+pénis
+vagin
+bras droit
+bras gauche
+genou droit
+genou gauche
+torse
+crane
+anus
+oreille droite
+oreille gauche
+oeil droit
+oeil gauche
+fessier
+front
+cuir chevelu
+cerveau
+pied droit
+pied gauche
+cul
+bite
+
+$famillefem
+mère
+soeur
+fille
+cousine
+tante
+grand-mère
+grande-tante
+arrière-grand-mère
+
+$famillemas
+père
+frère
+fils
+cousin
+oncle
+grand-père
+grand-oncle
+arrière-grand-père
+
+
+$Topic
+Les [objets], on en parle?
+Vous en pensez quoi de [forumeur]?
+Sah quel plaisir les [objets]
+J'ai [verbe] mon [objet] chez [forumeur]
+A quand une sextape [forumeur] x [forumeur]?
+Pourquoi [forumeur] a peur des [objets]?
+Qui est le [insulte] qui a [verbe] mon [objet]?
+[forumeur] viens ici on va [verbeinf] [forumeur]
+[forumeur] est un énorme [insulte]
+ALERTE - [2-500] [objets] [verbe]s par [forumeur]!
+Je suis sûr que [forumeur] [verbepre] [forumeur] en [activite]
+[forumeur] arrête de faire ton [insulte]
+J'ai [observé|surpris|filmé] [forumeur] en train de [verbeinf] [[forumeur]|[indeter]] pendant [2-59] minutes!
+[Indeter] ça peut remplacer un [objet]?
+Viens ici [forumeur] j'ai besoin de ton [avis|expertise] sur ces [objets]
+C'est [malaisant|bizarre|curieux|bandant] [forumeur] qui fantasme sur [personne]
+HELP J'AI [VERBE] MON [OBJET]
+Ton [forumeur] de poche : "gnn gnn [insulte]"
+Ton [forumeur] de poche : "gnn gnn [forumeur] est un [insulte]"
+Le plus [insulte] entre [[forumeur]|[personne]|[indeter]] et [[indeter]|[forumeur]|[personne]]?
+Mon [corps] mesure [2-99] [centimètres|mètres], c'est normal?
+Mon [corps] pèse [2-99] [kilos|grammes], c'est normal?
+Je suis sûr le [corps] de [forumeur] est [minuscule|gigantestque|moche|beau|malaisant|intéréssant]
+Pourquoi c'est [bien vu|mal vu|toléré|pas toléré] de [verbeinf] son [corps]?
+[forumeur] tu penses quoi de [[personne]|[forumeur]]?
+[Ta|Votre] réaction face a un [objet]?
+[Ta|Votre] réaction face a [[personne]|[indeter]]?
+"Tu es expert en [activite]?" "Oui je [verbepre] des [objets]"
+"Tu es expert en [activite]?" "Oui je [verbepre] en [objets]"
+Les [insulte] qui disent "[verbeinf] c'est mieux que [verbeinf]"
+Les [objets], c'est [oui!|non.]
+[Indeter] : "Je vais te [verbeinf]" ta réaction?
+Bonne nuit [forumeur]
+Ayaaa [forumeur] s'est encore fait [verbeinf]
+[forumeur] tu penses quoi de [forumeur]?
+Et [merde|voila|ça y'est|bordel|putain] j'ai [enfin | ][verbe] [[indeter]|[forumeur]]
+[verbeinf] les [OBJETS] de sa [FAMILLEFEM], on en TALKent?
+J'ai le seum de pas pouvoir [verbeinf] [forumeur]
+NOIR - Putain cette vidéo d'[indeter] qui [verbepre] [[indeter]|[forumeur]|[personne]]
+
